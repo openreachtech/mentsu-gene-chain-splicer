@@ -1,7 +1,7 @@
 {
-  "name": "@openreachtech/todo-fulfill-here",
+  "name": "@openreachtech/mentsu-gene-chain-splicer",
   "version": "0.0.0",
-  "description": "TODO: fulfill here (by npm-boilerplate@0.0.1)",
+  "description": "GeneChainSplicer module for Mentsu",
   "type": "module",
   "main": "index.js",
   "files": [
@@ -15,22 +15,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/openreachtech/todo-fulfill-here.git"
+    "url": "git+https://github.com/openreachtech/mentsu-gene-chain-splicer.git"
   },
   "author": "Open Reach Tech Inc.",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/openreachtech/todo-fulfill-here/issues"
+    "url": "https://github.com/openreachtech/mentsu-gene-chain-splicer/issues"
   },
-  "homepage": "https://github.com/openreachtech/todo-fulfill-here#readme",
+  "homepage": "https://github.com/openreachtech/mentsu-gene-chain-splicer#readme",
   "dependencies": {
   },
   "devDependencies": {
     "@openreachtech/eslint-config": "^4.3.0",
     "@openreachtech/jest-constructor-spy": "^1.1.0",
-    "@openreachtech/mentsu-rootpath": "^1.1.0",
-    "@openreachtech/renchan-env": "^1.0.2",
-    "@openreachtech/renchan-test-tools": "^1.0.0",
     "@types/jest": "^30.0.0",
     "eslint": "^9.39.2",
     "jest": "^30.2.0"
