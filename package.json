@@ -1,6 +1,6 @@
 {
   "name": "@openreachtech/mentsu-gene-chain-splicer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "GeneChainSplicer module for Mentsu",
   "type": "module",
   "main": "index.js",
