@@ -197,7 +197,7 @@ npm test
 
 This project is released under the MIT License.
 
-For more details, please see the [LICENSE](./LICENSE) file.
+For more details, please see [in the LICENSE file](./LICENSE).
 
 # Developer
 
