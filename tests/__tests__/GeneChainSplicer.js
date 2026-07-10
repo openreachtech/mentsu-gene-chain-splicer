@@ -94,6 +94,13 @@ describe('GeneChainSplicer', () => {
   describe('#spliceGene()', () => {
     class AlphaCore {
       /**
+       * Constructor
+       */
+      constructor () {
+        this.value = 0
+      }
+
+      /**
        * @returns {number}
        */
       firstValue () {
